@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+thead {
+    color: lightskyblue;
+}
+
+img {
+    height: 200px;
+    width: 230px;
+    padding: 10px;
+}
+
+.main-category {
+    padding: 5px;
+    background-color: lightyellow;
+    border: 1px solid  lightgray;
+}
+
+.sub-category {
+    padding: 10px;
+    background-color: lightgray;
+}
