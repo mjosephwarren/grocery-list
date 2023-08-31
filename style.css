@@ -1,8 +1,7 @@
 table {
     width: 100%;
     table-layout: fixed;
-    border-collapse: collapse;
-    font-family:'Trebuchet MS', sans-serif;
+    border: 0px;
 }
 
 h2 {
